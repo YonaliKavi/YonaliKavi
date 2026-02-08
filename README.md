@@ -3,8 +3,7 @@
 🎓 Third Year IT Undergraduate  
 🏫 University of Kelaniya  
 
-I am an IT undergraduate with a strong interest in **Network Engineering, Security Concepts**.  
-, my primary contributions are in **requirement analysis, system planning, and solution design**,In university projects.
+I am an IT undergraduate with a strong interest in **Network Engineering, Security Concepts**. my primary contributions are in **requirement analysis, system planning, and solution design**, In university projects.
 
 ---
 
