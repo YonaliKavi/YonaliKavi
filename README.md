@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Yonali Kavindya
 
-<!--
-**YonaliKavi/YonaliKavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third Year IT Undergraduate  
+🏫 University of Kelaniya  
 
-Here are some ideas to get you started:
+I am an IT undergraduate with a strong interest in **Network Engineering, Security Concepts**.  
+, my primary contributions are in **requirement analysis, system planning, and solution design**,In university projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Areas of Interest
+- Network design and basic network security
+- System and solution architecture
+- Understanding how software, hardware, and networks work together
+
+---
+
+## 🛠 Technical Exposure
+- Networking fundamentals (routing, switching, IP addressing – academic & self-learning)
+- Basic understanding of software development concepts
+- System documentation and design thinking
+- Familiar with using GitHub for documentation and project organization
+
+---
+
+
+## 🌱 Currently Learning
+- Practical network design concepts
+- Exploring real-world IT system structures
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/yonali-kavindya/
+- Email: yonalikavindya2003@gmail.com
